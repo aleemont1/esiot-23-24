@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "lab_2_11/i2c_scan.ino",
+    "port": "/dev/ttyACM0"
+}

@@ -1,0 +1,6 @@
+[submodule "esiot-23-24-assignment1"]
+	path = esiot-23-24-assignment1
+	url = git@github.com:aleemont1/esiot-23-24-assignment1.git
+[submodule "esiot-23-24-assignment2"]
+	path = esiot-23-24-assignment2
+	url = git@github.com:aleemont1/esiot-23-24-assignment2.git
